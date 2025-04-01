@@ -4,6 +4,6 @@
 :pencil: **implementador de sistemas**
 :eyeglasses: **Geek empedernido**
 
-<!--START_ACTIVITY:activity -->
+<!--START_ACTIVITY:start-->
 
-<!--END_ACTIVITY:activity -->
+<!--END_ACTIVITY:last_update-->
